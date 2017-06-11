@@ -1,4 +1,5 @@
 echo -e "\033[32m 更新themes文件 \033[0m"
+cp themes/hueman/_config.yml ./themes_hueman_config.yml
 cd themes/hueman
 # git clone git@github.com:ppoffice/hexo-theme-hueman.git
 git pull
