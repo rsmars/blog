@@ -18,7 +18,7 @@ root: /blog/
 permalink: :category/:title/:lang/
 permalink_defaults:
   lang: zh-CN
-  category: default 
+  category: Default 
 # Directory
 source_dir: source
 public_dir: public
@@ -65,7 +65,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hueman 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
