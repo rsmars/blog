@@ -1,3 +1,3 @@
 # blog
 
-[Git Pages](rsmars.github.io/blog)
+[Git Pages](https://rsmars.github.io/blog)
