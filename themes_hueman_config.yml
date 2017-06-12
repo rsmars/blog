@@ -22,7 +22,7 @@ customize:
         # google-plus: /
         github: https://github.com/rsmars 
         # weibo: /
-        # rss: /
+        rss: /atom.xml
 
 # Widgets
 widgets:
