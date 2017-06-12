@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RSmars Blog</title>
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="http://www.rsmars.com/blog/"/>
+  <updated>2017-06-11T16:41:01.000Z</updated>
+  <id>http://www.rsmars.com/blog/</id>
+  
+  <author>
+    <name>Liao Weibo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Hexo</title>
+    <link href="http://www.rsmars.com/blog/Default/Hello-Hexo/zh-CN/"/>
+    <id>http://www.rsmars.com/blog/Default/Hello-Hexo/zh-CN/</id>
+    <published>2017-06-11T16:14:12.000Z</published>
+    <updated>2017-06-11T16:41:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="My-First-Hexo-Blog"><a href="#My-First-Hexo-Blog" class="headerlink" title="My First Hexo Blog"></a>My First Hexo Blog</h1><a id="more"></a>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">hexo new 'Hello Hexo'</div><div class="line">hexo clean</div><div class="line">hexo d -g</div></pre></td></tr></table></figure>
+<h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><p><img src="/blog/Default/Hello-Hexo/zh-CN/logo.png" alt="logo"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;My-First-Hexo-Blog&quot;&gt;&lt;a href=&quot;#My-First-Hexo-Blog&quot; class=&quot;headerlink&quot; title=&quot;My First Hexo Blog&quot;&gt;&lt;/a&gt;My First Hexo Blog&lt;/h1&gt;
+    
+    </summary>
+    
+      <category term="Default" scheme="http://www.rsmars.com/blog/categories/Default/"/>
+    
+    
+  </entry>
+  
+</feed>
