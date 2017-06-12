@@ -10,5 +10,11 @@ echo -e "\033[32m 部署静态博客 \033[0m"
 hexo d -g
 echo -e "\033[32m 备份hexo系统 \033[0m"
 git add .
+if [$# == 0]
+then
 git commit -m "auto deploy"
+else
+git commit -m "auto deploy: $1"
+fi
 git push origin master
+echo -e "\033[32m 发布完成 https://rsmars.github.io/blog/ \033[0m"
