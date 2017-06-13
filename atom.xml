@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://www.rsmars.com/blog/"/>
-  <updated>2017-06-12T16:20:22.000Z</updated>
+  <updated>2017-06-13T15:17:03.000Z</updated>
   <id>http://www.rsmars.com/blog/</id>
   
   <author>
@@ -14,6 +14,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo博客搭建</title>
+    <link href="http://www.rsmars.com/blog/%E8%93%9D%E5%9B%BE/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/zh-CN/"/>
+    <id>http://www.rsmars.com/blog/蓝图/Hexo博客搭建/zh-CN/</id>
+    <published>2017-06-13T15:14:21.000Z</published>
+    <updated>2017-06-13T15:17:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/blog/蓝图/Hexo博客搭建/zh-CN/我的博客.png" alt=""></p>
+<p>Hexo是一款简单快速的博客框架，而且可以生成静态页面快速的部署到github pages，Heroku等网站。基于nodejs引擎，有着强大的插件系统和良好的拓展性。记录我的使用过程和经验</p>
+<a id="more"></a>
+<h1 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h1><ul>
+<li>环境搭建[施工中]</li>
+</ul>
+<h1 id="安装运行"><a href="#安装运行" class="headerlink" title="安装运行"></a>安装运行</h1><ul>
+<li>Hexo的安装与运行[计划中]</li>
+</ul>
+<h1 id="配置与主题"><a href="#配置与主题" class="headerlink" title="配置与主题"></a>配置与主题</h1><ul>
+<li>Hexo配置[计划中]</li>
+<li>Hexo主题[计划中]</li>
+</ul>
+<h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1><ul>
+<li>使用Hexo创建文章[计划中]</li>
+<li>使用Markdown撰写文章[计划中]</li>
+<li>启动Server浏览文章[计划中]</li>
+</ul>
+<h1 id="部署到服务器"><a href="#部署到服务器" class="headerlink" title="部署到服务器"></a>部署到服务器</h1><ul>
+<li>部署到Github Pages[计划中]</li>
+<li>nginx配置个人静态博客[计划中]</li>
+<li><del>Github Hook与自动化部署[挖坑]</del></li>
+</ul>
+<h1 id="插件与拓展"><a href="#插件与拓展" class="headerlink" title="插件与拓展"></a>插件与拓展</h1><ul>
+<li>编辑文章篇[计划中]</li>
+<li><del>留言篇[挖坑]</del> </li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/blog/蓝图/Hexo博客搭建/zh-CN/我的博客.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Hexo是一款简单快速的博客框架，而且可以生成静态页面快速的部署到github pages，Heroku等网站。基于nodejs引擎，有着强大的插件系统和良好的拓展性。记录我的使用过程和经验&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="蓝图" scheme="http://www.rsmars.com/blog/categories/%E8%93%9D%E5%9B%BE/"/>
+    
+    
+      <category term="Hexo" scheme="http://www.rsmars.com/blog/tags/Hexo/"/>
+    
+      <category term="蓝图" scheme="http://www.rsmars.com/blog/tags/%E8%93%9D%E5%9B%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello Hexo</title>
